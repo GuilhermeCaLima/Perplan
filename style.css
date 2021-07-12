@@ -1,0 +1,8 @@
+#bg {
+background: rgb(2,0,36);
+background: radial-gradient(circle, rgba(9,9,121,0.37284482758620685) 0%, rgba(2,0,36,1) 61%, rgba(0,212,255,1) 95%);
+}
+
+.userh2 {
+    text-align: center;
+}
